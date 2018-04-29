@@ -1,8 +1,8 @@
 {
   "name": "GoCommerce",
   "description": "A lightweight Go-based API for e-commerce sites on the JAMstack",
-  "website": "https://compassionate-boyd-7362af.netlify.com/",
-  "repository": "https://github.com/Unbel/gocommerce",
+  "website": "https://cranky-mestorf-be7d92.netlify.com/",
+  "repository": "https://github.com/Unbel/pest",
   "addons": ["heroku-postgresql"],
   "env": {
     "GOCOMMERCE_DB_DRIVER": {
